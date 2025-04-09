@@ -1,8 +1,12 @@
-# Tech Stack 
+# 🗂️ Overview to Learning AstroJS
+
+### Astro powers the world's fastest marketing sites, blogs, e-commerce websites, and more. Focusing on SSG, SSR and finally a zero-Javascript approach, optimized for speed and SEO.
+
+### Tech Stack 
 
 [![Tech](https://skillicons.dev/icons?i=html,css,astro,netlify,npm,github)](https://skillicons.dev)
 
-# Deployed using Netlify
+## Deployed using Netlify
 
 ### Live Link: [https://learning-astrojs.netlify.app/](https://learning-astrojs.netlify.app/)
 
