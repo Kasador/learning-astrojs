@@ -19,6 +19,10 @@
 - Within your `astro.config.mjs file`.
     - [Documentation](https://docs.astro.build/en/guides/deploy/netlify/)
 
+- For use of import, _either one will work_.
+    - `npm install @astrojs/netlify`
+    - `npx astro add netlify`
+
 ```js 
 // https://docs.astro.build/en/guides/deploy/netlify/
 
