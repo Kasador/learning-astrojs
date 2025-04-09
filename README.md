@@ -14,6 +14,24 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/554935bd-6672-43b4-a67d-e3882faf0c8c/deploy-status)](https://app.netlify.com/sites/learning-astrojs/deploys)
 
+### Additional Method to Deploying to Netlify
+
+- Within your `astro.config.mjs file`.
+    - [Documentation](https://docs.astro.build/en/guides/deploy/netlify/)
+
+```js 
+// https://docs.astro.build/en/guides/deploy/netlify/
+
+import { defineConfig } from 'astro/config';
+import netlify from '@astrojs/netlify/functions';
+
+export default defineConfig({
+  output: 'server',
+  adapter: netlify({
+    edgeMiddleware: true
+  }),
+});
+```
 # Astro Starter Kit: Basics
 
 ```sh
