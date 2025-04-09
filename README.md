@@ -1,3 +1,9 @@
+# Deployed using Netlify
+
+### The Live Link: [https://learning-astrojs.netlify.app/](https://learning-astrojs.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/554935bd-6672-43b4-a67d-e3882faf0c8c/deploy-status)](https://app.netlify.com/sites/learning-astrojs/deploys)
+
 # Astro Starter Kit: Basics
 
 ```sh
