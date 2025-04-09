@@ -1,10 +1,12 @@
 # Tech Stack 
 
-[![Tech](https://skillicons.dev/icons?i=html,css,astro,netlify)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=html,css,astro,netlify,npm,github)](https://skillicons.dev)
 
 # Deployed using Netlify
 
 ### Live Link: [https://learning-astrojs.netlify.app/](https://learning-astrojs.netlify.app/)
+
+![Image](https://github.com/user-attachments/assets/a9720ab1-bb05-431c-b3f4-3e86f1e0cb3c)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/554935bd-6672-43b4-a67d-e3882faf0c8c/deploy-status)](https://app.netlify.com/sites/learning-astrojs/deploys)
 
